@@ -3,11 +3,7 @@ The ability to efficiently manage and direct data traffic within a network is pa
 The algorithms implimented are :
 
 1)Genetic Algorithm
-
 2)A-Star
-
 3)Simulated Annealing
-
 4)Dijkstras Algorithm
-
 5)Floyd Warshall Algorithm
